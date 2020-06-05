@@ -1,3 +1,3 @@
-# Welcome to my blog
+# saranya guttikonda 
 
-I'm glad you are here. I plan to talk about ...
+hello there. keep clicking to find out more about me (:
