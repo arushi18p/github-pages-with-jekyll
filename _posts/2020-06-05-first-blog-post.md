@@ -1,14 +1,6 @@
 ---
-title: "brag sheet"
-throughout highschool, i participated in several clubs and extracurriculars, held executive board positions, and recieved awards, such as: 
-1. Model United Nations
-2. Future Business Leaders of America
-3. Euro Challenge 2020 (semifinalist; top 25 in the nation)
-4. Drugs and Alcohol Abuse Prevention Alliance
-5. Spanish Honor Society (event coordinator)
-6. Youth Council (presidential service award)
-7. Varsity Tennis
-8. Biology League 
+title: "first blog: welcome to this website"
+
 
 date: 2020-06-08
 ---
